@@ -1,0 +1,93 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="App"
+>
+  <div
+    style={
+      Object {
+        "display": "flex",
+        "flexDirection": "row",
+      }
+    }
+  >
+    <div>
+      <div
+        className="text-black card"
+        style={
+          Object {
+            "backgroundColor": "#DEEED6",
+            "marginBottom": "50px",
+            "minHeight": "428px",
+            "width": "1300px",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "marginBottom": "50px",
+              "marginLeft": "100px",
+              "marginTop": "75px",
+              "top": "auto",
+              "width": "578px",
+            }
+          }
+        >
+          <p
+            className="card-text"
+            style={
+              Object {
+                "fontSize": "2.5em",
+                "fontWeight": "bold",
+              }
+            }
+          >
+            Tim Schultejans
+          </p>
+          <img
+            alt="Card"
+            className="card-img"
+            src="https://placekitten.com/300/300"
+            style={
+              Object {
+                "backgroundRepeat": "no-repeat",
+                "backgroundSize": "contain",
+                "height": "428px",
+                "position": "absolute",
+                "width": "20%",
+              }
+            }
+          />
+          <p
+            className="card-text"
+            style={
+              Object {
+                "fontSize": "1em",
+              }
+            }
+          >
+            Struggling with react tests.
+          </p>
+        </div>
+      </div>
+    </div>
+    <div>
+      <img
+        alt="Card"
+        src="https://d2d8wwwkmhfcva.cloudfront.net/1500x1520/d2guulkeunn7d8.cloudfront.net/assets/homepage/homepage-mobile-background-m3-high-res-ca3279087ea0a3337f671b694b196d43fd207443d5825e61295b0996974835e9.jpg"
+        style={
+          Object {
+            "backgroundRepeat": "no-repeat",
+            "backgroundSize": "contain",
+            "height": "428px",
+            "position": "absolute",
+            "width": "20%",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;
